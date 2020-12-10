@@ -27,7 +27,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 * gtkmm-3.0
 * webkit2gtk-4.0
 * appindicator3-0.1
-sudo apt-get install libappindicator3-dev libwebkit2gtk-4.0-dev libgtkmm-3.0-dev cmake
+* sudo apt-get install libappindicator3-dev libwebkit2gtk-4.0-dev libgtkmm-3.0-dev cmake
 
 ## Build & Run
 
